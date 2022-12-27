@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "onFocusChange",
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "git.ignoreLimitWarning": true
+}
